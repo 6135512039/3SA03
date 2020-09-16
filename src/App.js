@@ -7,7 +7,7 @@ const word = "Hello";
 function App() {
   return (
     <div>
-    <WordCard value="hello"/>
+    <WordCard value="6135512039"/>
     </div>
     );
   }
